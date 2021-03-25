@@ -1,5 +1,6 @@
 print("hola mundo")
-a = 5 +2
+a = 5 + 2
+
 
 def exportable_function():
     for i in range():
@@ -7,12 +8,9 @@ def exportable_function():
     return "hola mundo"
 
 
-
 print("hello world")
+
 
 class Text(object):
     def __init__(self):
         pass
-
-
-
