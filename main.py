@@ -6,3 +6,5 @@ def hola():
 
 
 print(exportable_function())
+
+print(exportable_function().__doc__)
